@@ -1,0 +1,9 @@
+compile.on.save=true
+do.depend=false
+do.jar=true
+do.jlink=false
+file.reference.mysql-connector-j-9.1.0.jar=D:\\Desktop\\Coding\\json-20250517.jar
+javac.debug=true
+javadoc.preview=true
+jlink.strip=false
+user.properties.file=C:\\Users\\leewa\\AppData\\Roaming\\NetBeans\\25\\build.properties
